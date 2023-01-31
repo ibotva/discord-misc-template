@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "discord-misc": "github:TobiDMV/discord-misc",
+    "discord.js": "^14.7.1"
+  }
+}
